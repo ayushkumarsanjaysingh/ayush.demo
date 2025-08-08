@@ -1,2 +1,4 @@
 # ayush.demo
-This is my first Github repo 
+Author. ayush kumar 
+This is my first Github repo.
+
